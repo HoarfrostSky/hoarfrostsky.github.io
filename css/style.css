@@ -730,6 +730,16 @@ ol {
   margin-top: -180px;
 }
 
+.team__item.story__item--second {
+  margin-top: 0px;
+}
+.team__item.story__item--third {
+  margin-top: 0px;
+}
+.team__item.story__item--four {
+  margin-top: 0px;
+}
+
 .team__item__text {
   text-align: center;
   position: absolute;
